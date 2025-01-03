@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Elvis</h1>
-<h3 align="center">Un apasionado desarrollador frontend móvil de República Dominicana</h3>
+<h1 align="center">I am Elvis</h1>
+<h3 align="center">A mobile software developer</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=elvissalabarria&label=Profile%20views&color=0e75b6&style=flat" alt="elvissalabarria" /> </p>
 
-- 🔭 Actualmente estoy trabajando en como **Desarrollador movil** 
+- 🔭  **Freelancer mobile developer** 
 
 
 > Idiomas y herramientas:</h3>
